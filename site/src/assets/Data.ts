@@ -51,11 +51,10 @@ let dataString = "" +
     "Georgiano,1994\n" +
     "Latín,1998\n" +
     "Cingalés,1999\n" +
-    "Asturiano ,2005\n" +
+    "Asturiano,2005\n" +
     "Malayalam,2005\n" +
     "Hindi,2006\n" +
     "Bengalí,2007\n" +
-    "Lenguas Atlaicas,2009\n" +
     "Mogol,2009\n" +
     "Acerí,2011\n" +
     "Azerí,2011\n" +
