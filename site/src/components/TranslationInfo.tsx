@@ -13,7 +13,7 @@ function TranslationInfo({year, language}: TranslationInfoProps) {
     }
     return (
         <p>
-            El Quijote fue traducido al {language} en {year}.
+            El Quijote fue traducido al <b>{language}</b> en {year}.
         </p>
     )
 }

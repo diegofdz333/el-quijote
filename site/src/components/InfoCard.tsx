@@ -52,9 +52,7 @@ function InfoCard({current, years}: InfoCardProps) {
     let translations = getLastNTranslations(current, years, 5)
 
     return (
-        <Box sx={{
-            width: 500
-        }}>
+        <Box>
             <Stack spacing={4}>
                 {translations.map((year, i) =>
                     <TranslationInfo year={year.year} language={year.language} key={i}/>
