@@ -70,9 +70,9 @@ function TranslationsAcrossTime() {
         <Stack spacing={2}>
             <h2>Traducciones a través del tiempo</h2>
             <p>
-                Desde su impresa, el Quijote ha sido lo suficientemente popular para empezar a tener traducciones a
+                Desde su impressión, el Quijote ha sido lo suficientemente popular para empezar a tener traducciones a
                 diferentes lenguajes. Usa los controles abajo para ver cuándo los lenguajes de diferentes países
-                obtuvieron su primera imprenta del Quijote. Los mapas usan las primeras traducciones de la
+                obtuvieron su primera impressión del Quijote. Los mapas usan las primeras traducciones de la
                 colección de la Biblioteca Nacional Española.
             </p>
             <Stack direction={"row"} spacing={2} alignItems={"center"}>

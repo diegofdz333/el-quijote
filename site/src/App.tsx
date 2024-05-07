@@ -40,7 +40,7 @@ function App() {
                     </h1>
                     <p>
                         El ingenioso hidalgo don Quijote de la mancha fue publicado en 1605 por Miguel de Cervantes.
-                        Considerado una de las novelas españolas más importantes de todo el mundo, el quijote se ha circulado por todas partes.
+                        Considerada una de las novelas españolas más importantes de todo el mundo, el quijote se ha circulado por todas partes.
                     </p>
                 </Stack>
                 <TranslationsAcrossTime/>
